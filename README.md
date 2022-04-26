@@ -22,7 +22,7 @@ Well, well, since you have reached to this point reading my stuff , i should bon
 3. Playground existed just so that you could have some fun, after working and feeling tired, and need some break.
 4. keep the school, and especially ur place clean, since ur in it, then it belongs to u, so keep safe and clean.
 
-# Lessons u gain during the pool:
+# Lessons gained from the pool:
 
 1. Collaboration is king( btw i prefer working alone, but sometimes u need to work in team to achieve the big goals in shorter time).
 2. You can learn a lot in  a small period of time if ur willing to .
