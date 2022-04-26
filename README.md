@@ -30,7 +30,7 @@ Well, well, since you have reached this point reading my stuff, I should bonus y
 2. You can learn a lot in a small period if ur willing to.
 
 # RESOURCES:
-RTFM (HEHEHEHEH).
-YOUTUBE.
-GOOGLE.
-Your peers.
+1. RTFM (HEHEHEHEH).
+2. YOUTUBE.
+3. GOOGLE.
+4. Your peers.
