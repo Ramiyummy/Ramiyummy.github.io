@@ -2,6 +2,7 @@
 
 Hello, and welcome everybody to my first poor blog :). I have decided to write this little blog, sharing with you my little experience in 1337-med pool, how it was, and what you will  probably get out of it.
 
+
 So, let's begin. It all started on 2022/03/xx, we got our badges, and went directly to the meeting room, and there where the staff gave us a huge welcome, explaining  how things work in 1337, what should we except, and some other technical stuff, which you will  know when you get there,so be patient hehehe ;). After that, we headed to the cluster ( oh yeah, the cluster wa ma adrak ma cluster hhh), luckly we were the first ones in the 1337-med pool and that's why you will find that all the emacs are naked (HEHEHEHE), cause we took their covers off of course.
 
 
@@ -12,6 +13,7 @@ The following weeks, were all just repeated cycles, with different projects and 
 
 
 Well, well, since you have reached to this point reading my stuff , i should bonus you with some protien, oh i mean adivses , and tips, with SOME RESOURCED TO CAN HELP U to boost in your progress in your pool, hoping you all get something  out of this blog.
+
 
 # ADVISES:
 0. Study some regex, it will help u in some of the shell exercises.
