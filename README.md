@@ -14,6 +14,7 @@ Well, well, since you have reached to this point reading my stuff , i should bon
 2. Study recursion, if ur willing to score 100%in some of the projects..
 3.  RTFM (aka read the fucking manual).
 4. Be kind to your peer, and help who is in need when you are free.
+5. Never leave your session open.
 
 # And know let's move to the obvious stuff, but its not that crystal clear for everybody:
 1. Respect your peers, staff, and the security guys.
