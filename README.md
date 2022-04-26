@@ -38,3 +38,4 @@ Well, well, since you have reached this point reading my stuff, I should bonus y
 2. YOUTUBE.
 3. GOOGLE.
 4. Your peers.
+![bf008175-e130-41de-bbf5-158b421a7c0f](https://user-images.githubusercontent.com/86990997/165381524-05cdac49-34bd-4032-8c4d-f425e62465ee.jpeg)
