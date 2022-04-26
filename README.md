@@ -8,14 +8,14 @@ The following weeks, were all just repeated cycles, with different projects and 
 
 Well, well, since you have reached to this point reading my stuff , i should bonus you with some protien, oh i mean adivses , and tips, with SOME RESOURCED TO CAN HELP U to boost in your progress in your pool, hoping you all get something  out of this blog.
 
-#ADVISES:
+# ADVISES:
 0. Study some regex, it will help u in some of the shell exercises.
 1. Study algorithms, if you haven’t already..
 2. Study recursion, if ur willing to score 100%in some of the projects..
 3.  RTFM (aka read the fucking manual).
 4. Be kind to your peer, and help who is in need when you are free.
 
-And know let's move to the obvious stuff, but its not that crystal clear for everybody:
+# And know let's move to the obvious stuff, but its not that crystal clear for everybody:
 1. Respect your peers, staff, and the security guys.
 2. Cluster is meant for studying, not playing around, so when ur in the cluster work, study help, and don’t cause noise to ur peers, they re trying to focus and work as well.
 3. Playground existed just so that you could have some fun, after working and feeling tired, and need some break.
@@ -26,7 +26,7 @@ And know let's move to the obvious stuff, but its not that crystal clear for eve
 1. Collaboration is king( btw i prefer working alone, but sometimes u need to work in team to achieve the big goals in shorter time).
 2. You can learn a lot in  a small period of time if ur willing to .
 
-#RESOURCES:
+# RESOURCES:
 1. RTFM (HEHEHEHEH).
 2. YOUTUBE.
 3. GOOGLE.
